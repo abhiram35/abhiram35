@@ -4,11 +4,11 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/pathipati-abhiram">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:abhiram.p@example.com">
-    <img src="https://img.shields.io/badge/Email-abhiram.p%40example.com-D14836?logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:pabhiram356@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pabhiram356%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-View-4EAAE7?logo=githubpages&logoColor=white" alt="Portfolio" />
