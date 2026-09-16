@@ -14,9 +14,41 @@ Always open to **learning, building, connecting, and collaborating**.
 
 ---
 
+<p align="center">
+
+<a href="https://portfolio-builder--ABHIRAM56.replit.app/">
+  <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=replit&logoColor=white"
+       alt="Visit My Portfolio"/>
+</a>
+
+<a href="https://github.com/abhiram35">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+       alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pathipati-abhiram">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+       alt="LinkedIn"/>
+</a>
+
+</p>
+
+---
+
 # 🌐 Connect With Me
 
 <p>
+
+  <a href="https://portfolio-builder--ABHIRAM56.replit.app/">
+    <img src="https://img.icons8.com/fluency/96/domain.png"
+         width="56"
+         height="56"
+         alt="Portfolio"
+         title="Portfolio"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/pathipati-abhiram">
     <img src="https://img.icons8.com/color/96/linkedin.png"
          width="56"
@@ -24,7 +56,9 @@ Always open to **learning, building, connecting, and collaborating**.
          alt="LinkedIn"
          title="LinkedIn"/>
   </a>
+
   &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:pabhiram356@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
          width="56"
@@ -32,7 +66,9 @@ Always open to **learning, building, connecting, and collaborating**.
          alt="Email"
          title="Email"/>
   </a>
+
   &nbsp;&nbsp;&nbsp;
+
   <a href="https://mastodon.social">
     <img src="https://cdn.simpleicons.org/mastodon/6364FF"
          width="56"
@@ -40,7 +76,12 @@ Always open to **learning, building, connecting, and collaborating**.
          alt="Mastodon"
          title="Mastodon"/>
   </a>
+
 </p>
+
+🌐 **Portfolio:** [portfolio-builder--ABHIRAM56.replit.app](https://portfolio-builder--ABHIRAM56.replit.app/)
+
+📧 **Email:** `pabhiram356@gmail.com`
 
 ---
 
@@ -195,7 +236,8 @@ Always open to **learning, building, connecting, and collaborating**.
 
 # 🚀 What I Build
 
-### 🔍 Computer Vision
+## 🔍 Computer Vision
+
 Building deep learning systems from the fundamentals, including a **single-stage object detector implemented from scratch in PyTorch** with:
 
 - Anchor generation
@@ -205,10 +247,12 @@ Building deep learning systems from the fundamentals, including a **single-stage
 - Non-Maximum Suppression
 - mAP evaluation
 
-### 📈 Reinforcement Learning
+## 📈 Reinforcement Learning
+
 Experimenting with **reinforcement learning for trading**, focusing on agent behavior, reward design, and decision-making under sequential feedback.
 
-### 🌾 Machine Learning for Agriculture
+## 🌾 Machine Learning for Agriculture
+
 Built a **crop yield prediction regression model**, applying machine learning and data analysis to an agriculture-focused real-world problem.
 
 ---
@@ -216,18 +260,24 @@ Built a **crop yield prediction regression model**, applying machine learning an
 # 📊 GitHub Stats
 
 <p align="center">
+
   <img src="https://github-readme-stats.shion.dev/api?username=abhiram35&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true"
        alt="GitHub Stats"/>
+
 </p>
 
 <p align="center">
+
   <img src="https://streak-stats.demolab.com/?user=abhiram35&theme=dark&hide_border=false"
        alt="GitHub Streak"/>
+
 </p>
 
 <p align="center">
+
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhiram35&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
        alt="Most Used Languages"/>
+
 </p>
 
 ---
@@ -251,13 +301,33 @@ I'm always interested in discussing **Machine Learning, AI, Computer Vision, Rei
 If you're working on something interesting in these areas, feel free to connect.
 
 <p>
+
+  <a href="https://portfolio-builder--ABHIRAM56.replit.app/">
+    <img src="https://img.icons8.com/fluency/96/domain.png"
+         width="56"
+         height="56"
+         alt="Portfolio"
+         title="Portfolio"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/pathipati-abhiram">
     <img src="https://img.icons8.com/color/96/linkedin.png"
-         width="56" height="56" alt="LinkedIn"/>
+         width="56"
+         height="56"
+         alt="LinkedIn"/>
   </a>
+
   &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:pabhiram356@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
-         width="56" height="56" alt="Email"/>
+         width="56"
+         height="56"
+         alt="Email"/>
   </a>
+
 </p>
+
+🌐 **Portfolio:** [portfolio-builder--ABHIRAM56.replit.app](https://portfolio-builder--ABHIRAM56.replit.app/)
